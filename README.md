@@ -141,7 +141,6 @@ Feel free to submit issues or pull requests if you have improvements for this pr
 
 ## 📧 Contact
 - **LinkedIn**: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-64b22b270/)
-- **GitHub**: [Aman's GitHub](https://github.com/YourGitHubHandle)
 - **Portfolio**: [Visit Here](https://aman-first-portfolio.netlify.app/)
 
 ---
