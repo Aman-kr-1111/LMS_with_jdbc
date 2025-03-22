@@ -73,6 +73,8 @@ A Java-based **Library Management System** that interacts with an Oracle databas
      ```
    - Ensure the table is empty before running the program.
 
+---
+
 3. **Compile and Run**:
    - Compile the Java file:
      ```bash
